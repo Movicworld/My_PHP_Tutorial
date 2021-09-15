@@ -1,5 +1,5 @@
 <?php
-/*
+
 // Create array
 $array1 = [2,3,4,5,6,7,];
 $array2 = ["banana","orange",900 l4"plantian"];
@@ -85,7 +85,7 @@ sort($array2);
 echo '<pre>';
 var_dump ($array2);
 echo '</pre>';
-*/
+
 // https://www.php.net/manual/en/ref.array.php
 
 // ============================================
